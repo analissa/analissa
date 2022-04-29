@@ -4,7 +4,7 @@ Oiiiiii!
 
 -🎓 Curso Análise e Desenvolvimento de Sistemas
 
--👩‍💻 Entrando no mundo PHP
+-👩‍💻 Entrando no mundo PHP e  JavaScript
 
 -💻 Habilidades em: HTML | CSS | Wordpress
 
